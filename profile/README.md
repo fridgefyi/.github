@@ -13,9 +13,6 @@ more of what enters a kitchen is actually eaten.
 
 ## What we're building
 
-fridgefyi starts from an ordinary question — *what can I make with what's in
-my fridge right now?* — and takes it seriously.
-
 - **Know what's on hand.** A pantry that reflects the real one: what you have,
   how much, and how long it has left.
 - **Know the food.** A large, normalised corpus of real recipes, cleaned so
